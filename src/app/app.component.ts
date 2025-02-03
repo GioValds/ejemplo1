@@ -8,11 +8,11 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'fundamentos';
+  title = 'Web';
   //propiedades
-  nombre ='Guillermo';
+  nombre ='alejandro';
   aniosServicio =3;
-  email='guillermovb71@mail.com';
+  email=' giovanivaldes@gmail.com';
   activo=false;
   alumnos = [25,24,26];
   //funcion que muestra si esta activo o no 
